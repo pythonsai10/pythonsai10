@@ -1,3 +1,4 @@
+PROGRAM 2
 import random
 count=0
 while(count<=100):
@@ -46,3 +47,102 @@ while(count<=100):
 	elif(count==100):
 		print("congrats you won")
 		break
+		OUTPUT
+enter r to roll a dicer
+my position 1
+your random value 1
+enter r to roll a dicer
+my position 2
+your random value 1
+enter r to roll a dicer
+my position 7
+your random value 5
+enter r to roll a dicer
+my position 9
+your random value 2
+enter r to roll a dicer
+my position 14
+your random value 5
+enter r to roll a dicer
+my position 17
+your random value 3
+enter r to roll a dicer
+my position 21
+your random value 4
+enter r to roll a dicer
+my position 27
+your random value 6
+enter r to roll a dicer
+my position 28
+your random value 1
+enter r to roll a dicer
+my position 29
+your random value 1
+enter r to roll a dicer
+my position 33
+your random value 4
+enter r to roll a dicer
+my position 37
+your random value 4
+enter r to roll a dicer
+my position 40
+your random value 3
+wow ladder
+enter r to roll a dicer
+my position 71
+your random value 3
+enter r to roll a dicer
+my position 75
+your random value 4
+enter r to roll a dicer
+my position 77
+your random value 2
+enter r to roll a dicer
+my position 79
+your random value 2
+enter r to roll a dicer
+my position 84
+your random value 5
+enter r to roll a dicer
+my position 89
+your random value 5
+sorry snake bite
+enter r to roll a dicer
+my position 72
+your random value 2
+enter r to roll a dicer
+my position 78
+your random value 6
+enter r to roll a dicer
+my position 81
+your random value 3
+enter r to roll a dicer
+my position 85
+your random value 4
+enter r to roll a dicer
+my position 91
+your random value 6
+enter r to roll a dicer
+my position 97
+your random value 6
+enter r to roll a dicer
+my position 99
+your random value 2
+enter r to roll a dicer
+my position 103
+your random value 4
+you cant go beyound 100
+enter r to roll a dicer
+my position 102
+your random value 3
+you cant go beyound 100
+enter r to roll a dicer
+my position 104
+your random value 5
+you cant go beyound 100
+enter r to roll a dicer
+my position 100
+your random value 1
+congrats you won
+
+
