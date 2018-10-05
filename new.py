@@ -10,3 +10,10 @@ while(True):
 	else:
 		print("player won")
 		break
+OUTPUT
+enter'R','P','S'S
+computer wins
+enter'R','P','S'R
+tie
+enter'R','P','S'P
+player won
