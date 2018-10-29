@@ -1,3 +1,4 @@
+PROGRAM 4
 import smtplib
 import getpass
 
@@ -22,3 +23,4 @@ s.sendmail(myemail,recemail,message)
 
 #terminating the sesion
 s.quit()
+OUTPUT
