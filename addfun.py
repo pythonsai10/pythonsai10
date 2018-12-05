@@ -1,4 +1,4 @@
-
+PROGRAM 1
 a=5
 b=10
 def add():
@@ -13,3 +13,6 @@ result1=add()
 result2=sub()
 print(result1)
 print(result2)
+OUTPUT
+15
+-5
